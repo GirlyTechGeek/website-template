@@ -2,7 +2,7 @@ import {
   BrowserRouter as Router,
   Route} from 'react-router-dom';
 import React from "react";
-import Main from './OnePager/Main'
+import Main from './Component/Main'
 import './App.css';
 
 function App() {
